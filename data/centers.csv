@@ -1,0 +1,41 @@
+Centro participante,id_centro,cidade,estado,regiao,tipo_centro,lat,log,Nome do responsável pelo preenchimento,E-mail do responsável pelo preenchimento
+Acromegalia - Instituto de Psiquiatria - USP,acromegalia__insti,São Paulo,SP,Sudeste,Hospitais Universitários,-23.5506507,-46.6333824,,
+APAE - Anápolis/GO,apae_anpolis,Anápolis,GO,Centro-Oeste,Serviços de Referência em Doenças Raras; Serviços de Referência em Triagem Neonatal,-16.3274,-48.95332,Marcos Guimarães Zuccheetti,ame@apeaps.org.br
+APAE - Campo Grande/MS,apae_campo_grande,Campo Grande,MS,Centro-Oeste,Serviços de Referência em Triagem Neonatal,-20.4640173,-54.647758,LIANE DE ROSSO GIULIANI,liane.giuliani@gmail.com
+APAE - Salvador/BA,apae_salvador,Salvador,BA,Nordeste,Serviços de Referência em Doenças Raras; Serviços de Referência em Triagem Neonatal,-12.977749,-38.501629,Tatiana Amorim,tatiana.amorim@apaesalvador.org.br
+CEDEBA - Salvador/BA,cedeba,Salvador,BA,Nordeste,Hospitais Universitários,-12.977749,-38.501629,FLÁVIA RESEDA BRANDAO,Flaviasaba@gmail.com
+CESUPA - Belém/PA,cesupa,Belém,PA,Norte,Hospitais Universitários,-1.45498,-48.50227,Milena Coelho Fernandes Caldato,milenacaldato@cesupa.br
+Escola Bahiana de Medicina e Saúde Pública - Salvador/BA,escola_bahiana_de,Salvador,BA,Nordeste,Hospitais Universitários,-12.977749,-38.501629,Marcela Câmara Machado Costa,marcelacmcosta@gmail.com
+Faculdade de Medicina do ABC - Santo André/SP,faculdade_de_medic,Santo André,SP,Sudeste,Serviços de Referência em Doenças Raras; Hospitais Universitários,-23.6573395,-46.5322504,DENISE MARIA CHRISTOFOLINI,denise.christofolini@fmabc.br
+Fundação Hospital Estadual do Acre - Rio Branco/AC,fundhacre_fundao_h,Rio Branco,AC,Norte,Hospitais Universitários,-9.9765362,-67.8220778,Bethania de Freitas Rodrigues Ribeiro,bfrodrigues@gmail.com
+Hospital Bettina Ferro de Souza - Belém/PA,hospital_bettina_f,Belém,PA,Norte,Hospitais Universitários,-1.45498,-48.50227,ANTONETTE SOUTO EL HUSNY,a.elhusny@gmail.com
+Hospital da Criança Santo Antônio - Porto Alegre/RS,hospital_da_criana,Porto Alegre,RS,Sul,Serviços de Referência em Doenças Raras; Hospitais Universitários,-30.0324999,-51.2303767,Paulo Ricardo Gazzola Zen,paulozen@ufcspa.edu.br
+Hospital de Apoio - Brasília/DF,hospital_de_apoio,Brasília,DF,Centro-Oeste,Serviços de Referência em Doenças Raras; Serviços de Referência em Triagem Neonatal,-15.7934036,-47.8823172,Giselle Maria Araujo Felix Adjuto,gisellemaf@gmail.com
+Hospital de Clínicas - Porto Alegre/RS,hcpa,Porto Alegre,RS,Sul,Serviços de Referência em Doenças Raras; Hospitais Universitários,-30.0324999,-51.2303767,ida vanessa d schwartz,idadschwartz@gmail.com
+Hospital de Clínicas - Ribeirão Preto/SP,hospital_das_clini,Ribeirão Preto,SP,Sudeste,Serviços de Referência em Doenças Raras; Hospitais Universitários,-21.178333,-47.8066671,Victor Evangelista de Faria Ferraz,vferraz@usp.br
+Hospital Geral Dr. César Cals - Fortaleza/CE,hospital_geral_dr,Fortaleza,CE,Nordeste,Serviços de Referência em Triagem Neonatal,-3.731862,-38.526669,ELLAINE DORIS FERNANDES CARVALHO,ellainecarvalho@hotmail.com
+Hospital Infantil Albert Sabin - Fortaleza/CE,hospital_infantil,Fortaleza,CE,Nordeste,Serviços de Referência em Doenças Raras,-3.731862,-38.526669,erlane marques ribeiro,erlaneribeiro@yahoo.com.br
+Hospital Infantil Joana de Gusmão - Florianópolis/SC,hospital_infantilb,Florianópolis,SC,Sul,Serviços de Referência em Doenças Raras; Serviços de Referência em Triagem Neonatal,-27.5973002,-48.5496098,LOUISE LAPAGESSE DE CAMARGO PINTO,LAPAGESSELOU@GMAIL.COM
+Hospital Infantil João Paulo II - Belo Horizonte/MG,hospital_infantilc,Belo Horizonte,MG,Sudeste,Serviços de Referência em Doenças Raras,-19.9227318,-43.9450948,,
+Hospital Materno Infantil - Brasília/DF,hospital_materno_i,Brasília,DF,Centro-Oeste,Serviços de Referência em Doenças Raras,-15.7934036,-47.8823172,MARIA  TERESINHA DE OLIVEIRA CARDOSO,doencasraras.ses@gmail.com
+Hospital Pequeno Príncipe - Curitiba/PR,hospital_pequeno_p,Curitiba,PR,Sul,Serviços de Referência em Doenças Raras,-25.4295963,-49.2712724,Mara Lucia Schmitz Ferreira Santos,maralsantos10@gmail.com
+Hospital Santa Casa - Vitória/ES,hospital_santa_cas,Vitória,ES,Sudeste,Serviços de Referência em Doenças Raras; Hospitais Universitários,-20.3200917,-40.3376682,Faradiba Sarquis Serpa,faradibasarquis@uol.com.br
+Hospital São Paulo - São Paulo/SP,hospital_so_paulo,São Paulo,SP,Sudeste,Hospitais Universitários,-23.5506507,-46.6333824,Dra. Ana Maria Martins,ni.martins10@gmail.com
+Hospital Universitário Alcides Carneiro - Campina Grande/PB,hospital_universit,Campina Grande,PB,Nordeste,Hospitais Universitários,-7.2246743,-35.8771292,Paula Frassinetti  Vasconcelos de Medeiros,paulafvmedeiros@gmail.com
+Hospital Universitário Clementino Fraga Filho - Rio de Janeiro/RJ,hospital_universitb,Rio de Janeiro,RJ,Sudeste,Hospitais Universitários,-22.9110137,-43.2093727,Solange Valle,solangervalle@gmail.com
+Hospital Universitário Júlio Müller - Cuiabá/MT,hospital_universitc,Cuiabá,MT,Centro-Oeste,Serviços de Referência em Triagem Neonatal; Hospitais Universitários,-15.5986686,-56.0991301,Marcial Francis Galera,fgalera@uol.com.br
+Hospital Universitário Lauro Wanderley - João Pessoa/PB,hospital_universitd,João Pessoa,PB,Nordeste,Hospitais Universitários,-7.1215981,-34.882028,Rayana Elias Maia,rayanamaia@hotmail.com
+Hospital Universitário Maria Pedrossian - Campo Grande/MS,hospital_universite,Campo Grande,MS,Centro-Oeste,Hospitais Universitários,-20.4640173,-54.647758,LIANE DE ROSSO GIULIANI,liane.giuliani@gmail.com
+Hospital Universitário Pedro Ernesto - Rio de Janeiro/RJ,universidade_estadb,Rio de Janeiro,RJ,Sudeste,Hospitais Universitários,-22.9110137,-43.2093727,Raquel Boy,raquelboy1@gmail.com
+Hospital Universitário Prof. Edgar Santos - Salvador/BA,hospital_universitf,Salvador,BA,Nordeste,Serviços de Referência em Doenças Raras; Hospitais Universitários,-12.977749,-38.501629,CAMILA FERREIRA RAMOS,cmilafr.nut@gmail.com
+Hospital Universitário Walter Cantídio - Fortaleza/CE,hospital_universitg,Fortaleza,CE,Nordeste,Serviços de Referência em Doenças Raras; Hospitais Universitários,-3.731862,-38.526669,Maria Denise Fernandes Carvalho de Andrade,dra.denisecarvalho@gmail.com
+IFF/Fiocruz - Rio de Janeiro/RJ,instituto_nacional,Rio de Janeiro,RJ,Sudeste,Serviços de Referência em Doenças Raras; Hospitais Universitários,-22.9110137,-43.2093727,Juan Clinton Llerena Junior,juan.llerena@iff.fiocruz.br
+Instituto da Criança - São Paulo/SP,instituto_da_crian,São Paulo,SP,Sudeste,Hospitais Universitários,-23.5506507,-46.6333824,Chong Ae Kim,chong.kim@hc.fm.usp.br
+Instituto Jô Clemente - São Paulo/SP,instituto_j_clemen,São Paulo,SP,Sudeste,Serviços de Referência em Triagem Neonatal,-23.5506507,-46.6333824,MARCIA MARIA COSTA GIACON GIUSTI,marcia.giusti@ijc.org.br
+Maternidade Bárbara Heliodora - Rio Branco/AC,maternidade_barbar,Rio Branco,AC,Norte,Hospitais Universitários,-9.9765362,-67.8220778,Bethania de Freitas Rodrigues Ribeiro,bfrodrigues@gmail.com
+Maternidade Climério de Oliveira - Salvador/BA,maternidade_barbar,Salvador,BA,Nordeste,Hospitais Universitários,-12.977749,-38.501629,Larissa Souza Mario Bueno,larissasmbueno@gmail.com
+Maternidade Climério de Oliveira - Salvador/BA,maternidade_climri,Salvador,BA,Nordeste,Hospitais Universitários,-12.977749,-38.501629,Larissa Souza Mario Bueno,larissasmbueno@gmail.com
+Policlínica Codajás - Manaus/AM,codajassusam,Manaus,AM,Norte,Serviços de Referência em Triagem Neonatal,-3.1316333,-59.9825041,Vania Mesquita Gadelha Prazeres,vaniaprazeres@ufam.edu.br
+Rarus - Recife/PE,rarus,Recife,PE,Nordeste,Serviços de Referência em Doenças Raras,-8.0584933,-34.8848193,MARCELO SOARES KERSTENETZKY,marceloskhepato@uol.com.br
+UNICAMP - Campinas/SP,unicamp__universid,Campinas,SP,Sudeste,Serviços de Referência em Doenças Raras; Hospitais Universitários,-22.90556,-47.06083,Carlos Eduardo Steiner,steiner@unicamp.br
+Universidade Estadual de Londrina - Londrina/PR,universidade_estad,Londrina,PR,Sul,Hospitais Universitários,-23.3112878,-51.1595023,Wagner José Martins Paiva,wjmpaiva@uel.br
