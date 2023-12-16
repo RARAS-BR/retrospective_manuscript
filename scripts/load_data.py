@@ -15,8 +15,8 @@ def process_tipo_tratamento(trat: pd.DataFrame, id_cols: list, column_map: dict,
 
 
 # Load files
-FILE_PATH = 'original_data/'
-SAVE_PATH = '../data/'
+FILE_PATH = 'scripts/original_data/'
+SAVE_PATH = 'data/'
 forms: Dict[str, DataFrame] = {}
 for form in ['inclusao', 'identificacao', 'diagnostico', 'tratamento', 'internacao', 'obito', 'seguimento']:
     df: pd.DataFrame = pd.read_csv(f'{FILE_PATH}{form}.csv', low_memory=False)
@@ -172,6 +172,21 @@ trat.drop(columns=[
 inter['ocorrencia_internacao'] = 1
 obito['ocorrencia_obito'] = 1
 
+# Feature: idade óbito
+obito = pd.merge(
+    obito,
+    id_df[['record_id', 'data_nascimento']],
+    on='record_id',
+    how='left'
+)
+obito['data_obito'] = pd.to_datetime(obito['data_obito'])
+obito['idade_obito'] = (
+        obito['data_obito']
+        - obito['data_nascimento']
+).dt.days.div(365.25)
+obito.loc[obito['idade_obito'] < 0, 'idade_obito'] = np.nan
+obito.drop(columns='data_nascimento', inplace=True)
+
 seg = pd.merge(
     seg[['record_id', 'id_centro', 'quantidade_internacoes']],
     inter[['record_id', 'id_centro', 'data_internacao', 'cid_internacao', 'ocorrencia_internacao']],
@@ -180,7 +195,7 @@ seg = pd.merge(
 )
 seg = pd.merge(
     seg,
-    obito[['record_id', 'id_centro', 'data_obito', 'necropsia_realizada', 'cid10', 'ocorrencia_obito']],
+    obito[['record_id', 'id_centro', 'data_obito', 'idade_obito', 'necropsia_realizada', 'cid10', 'ocorrencia_obito']],
     on=['record_id', 'id_centro'],
     how='outer'
 )

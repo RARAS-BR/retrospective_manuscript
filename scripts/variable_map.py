@@ -67,6 +67,7 @@ seguimento_columns = {
     'cid_internacao': 'cid10_hospitalization',
     'ocorrencia_internacao': 'previous_hospitalization',
     'data_obito': 'death_date',
+    'idade_obito': 'age_at_death',
     'necropsia_realizada': 'autopsy_performed',
     'cid_obito': 'cid10_death',
     'ocorrencia_obito': 'death',
