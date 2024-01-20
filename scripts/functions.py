@@ -1,4 +1,4 @@
-from typing import Callable, Union, List, Dict
+from typing import Callable, Union, List
 from pandas import DataFrame, Series
 import pandas as pd
 from scripts.disease_map import DISEASE_MAPS, DISEASE_NAMES
@@ -39,10 +39,10 @@ def custom_value_counts(func: Callable[..., pd.Series]) -> Callable[..., pd.Seri
 
 
 # TODO: add docs
-def create_descriptive_table(df: DataFrame, columns: List[str]) -> DataFrame:
+def create_descriptive_table(df: DataFrame, columns: List[str], dropna: bool = True) -> DataFrame:
     keys_list = [' '.join(col.split('_')).capitalize() for col in columns]
 
-    value_counts_list = [df[col].value_counts(total=True, ascending=False) for col in columns]
+    value_counts_list = [df[col].value_counts(total=True, ascending=False, dropna=dropna) for col in columns]
 
     grouped_df = pd.concat(value_counts_list, axis=0, keys=keys_list, names=['feature', 'value'])
 
@@ -79,4 +79,3 @@ def create_disease_count(df: pd.DataFrame, disease_names=None, disease_maps=None
     final_series.name = 'n'
 
     return final_series
-
