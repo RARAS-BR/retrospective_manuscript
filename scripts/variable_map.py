@@ -94,7 +94,7 @@ regiao_nascimento = {
     'Nordeste': 'Northeast',
     'Sudeste': 'Southeast',
     'Sul': 'South',
-    'Centro-Oeste': 'Midwest',
+    'Centro-oeste': 'Midwest',
     'Exterior': 'Born in other countries',
 }
 
