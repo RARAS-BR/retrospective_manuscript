@@ -1,95 +1,95 @@
 center_id,disease_code,disease_name,n,%
-acromegalia__insti,CID10:E22.0,Acromegaly,115,95.0413223140496
-acromegalia__insti,CID10:E23.0,Non-acquired isolated growth hormone deficiency,5,4.132231404958678
-acromegalia__insti,CID10:E23.2,Central diabetes insipidus,1,0.8264462809917356
-apae_anpolis,CID10:Q87.1,Prader-Willi syndrome,16,11.678832116788321
-apae_anpolis,CID10:F79.9,,9,6.569343065693431
-apae_anpolis,CID10:F80.9,,9,6.569343065693431
-apae_salvador,CID10:E25.0,Congenital adrenal hyperplasia,58,35.15151515151515
-apae_salvador,CID10:E70.0,Phenylketonuria,36,21.818181818181817
-apae_salvador,ORPHA:315306,"Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, salt wasting form",19,11.515151515151516
-cedeba,CID10:E22.0,Acromegaly,77,100.0
-cesupa,CID10:E22.0,Acromegaly,10,71.42857142857143
-cesupa,CID10:E24.0 - D35.2,ACTH-dependent Cushing syndrome,3,21.428571428571427
-cesupa,CID10:E25.0,Congenital adrenal hyperplasia,1,7.142857142857142
-codajassusam,ORPHA:716,Phenylketonuria,22,34.92063492063492
-codajassusam,ORPHA:315306,"Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, salt wasting form",13,20.634920634920633
-codajassusam,ORPHA:586,Cystic fibrosis,8,12.698412698412698
-escola_bahiana_de,ORPHA:289326,Tropical spastic paraparesis,70,15.086206896551724
-escola_bahiana_de,ORPHA:803,Amyotrophic lateral sclerosis,64,13.793103448275861
-escola_bahiana_de,CID10:G71.0,Emery-Dreifuss muscular dystrophy,46,9.913793103448276
-faculdade_de_medic,ORPHA:1572,Common variable immunodeficiency,7,12.068965517241379
-faculdade_de_medic,ORPHA:586,Cystic fibrosis,4,6.896551724137931
-faculdade_de_medic,CID10:G93.4,Neuhauser-Eichner-Opitz syndrome,3,5.172413793103448
-fundhacre_fundao_h,CID10:Q85.0,Neurofibromatosis type 1,5,13.88888888888889
-fundhacre_fundao_h,OMIM:540000,MELAS,3,8.333333333333332
-fundhacre_fundao_h,CID10:Q05.2,Isolated posterior meningocele,2,5.555555555555555
-hcpa,ORPHA:636,Neurofibromatosis type 1,59,6.876456876456877
-hcpa,ORPHA:716,Phenylketonuria,40,4.662004662004662
-hcpa,ORPHA:98757,Spinocerebellar ataxia type 3,35,4.0792540792540795
-hospital_bettina_f,ORPHA:98896,Duchenne muscular dystrophy,31,7.46987951807229
-hospital_bettina_f,CID10:Q99.8,Tetrasomy 18p,13,3.132530120481928
-hospital_bettina_f,ORPHA:904,Williams syndrome,12,2.891566265060241
-hospital_da_criana,ORPHA:567,22q11.2 deletion syndrome,25,19.841269841269842
-hospital_da_criana,ORPHA:636,Neurofibromatosis type 1,8,6.349206349206349
-hospital_da_criana,ORPHA:199,Cornelia de Lange syndrome,5,3.968253968253968
-hospital_das_clini,ORPHA:803,Amyotrophic lateral sclerosis,102,9.230769230769232
-hospital_das_clini,ORPHA:963,Acromegaly,96,8.687782805429864
-hospital_das_clini,ORPHA:98896,Duchenne muscular dystrophy,82,7.420814479638009
-hospital_de_apoio,OMIM:301500,Fabry disease,13,6.666666666666667
-hospital_de_apoio,OMIM:162200 - 162210 - 613675,Neurofibromatosis type 1,9,4.615384615384616
-hospital_de_apoio,OMIM:230800,Gaucher disease,9,4.615384615384616
-hospital_geral_dr,CID10:K22.0,Idiopathic achalasia,27,9.342560553633218
-hospital_geral_dr,CID10:O01.0 - O01.1 - O01.9,Hydatidiform mole,14,4.844290657439446
-hospital_geral_dr,ORPHA:589,Myasthenia gravis,12,4.1522491349480966
-hospital_infantil,OMIM:261600,Phenylketonuria,30,8.310249307479225
-hospital_infantil,CID10:Q78.0,Congenital osteogenesis imperfecta-microcephaly-cataracts syndrome,24,6.64819944598338
-hospital_infantil,ORPHA:716,Phenylketonuria,17,4.7091412742382275
-hospital_infantilc,CID10:E84.9,,88,52.38095238095239
-hospital_infantilc,CID10:E84.0,Cystic fibrosis,45,26.785714285714285
-hospital_infantilc,CID10:E84.8,Cystic fibrosis,33,19.642857142857142
-hospital_materno_i,ORPHA:648,Noonan syndrome,6,3.076923076923077
-hospital_materno_i,ORPHA:881,Turner syndrome,5,2.564102564102564
-hospital_materno_i,OMIM:130650,Beckwith-Wiedemann syndrome,4,2.051282051282051
-hospital_pequeno_p,CID10:Q99.8,Tetrasomy 18p,29,7.9452054794520555
-hospital_pequeno_p,ORPHA:98896,Duchenne muscular dystrophy,28,7.671232876712329
-hospital_pequeno_p,OMIM:219700,Cystic fibrosis,22,6.027397260273973
-hospital_santa_cas,CID10:D84.1,Primary CD59 deficiency,66,100.0
-hospital_so_paulo,ORPHA:324,Fabry disease,27,27.0
-hospital_so_paulo,ORPHA:77259,Gaucher disease type 1,13,13.0
-hospital_so_paulo,ORPHA:579,Mucopolysaccharidosis type 1,9,9.0
-hospital_universit,ORPHA:881,Turner syndrome,12,8.053691275167784
-hospital_universit,CID10:E22.0,Acromegaly,10,6.7114093959731544
-hospital_universit,OMIM:253000,Mucopolysaccharidosis type 4,10,6.7114093959731544
-hospital_universitb,CID10:D84.1,Primary CD59 deficiency,71,98.61111111111111
-hospital_universitb,ORPHA:91378,Hereditary angioedema,1,1.3888888888888888
-hospital_universitc,ORPHA:442,Congenital hypothyroidism,151,21.05997210599721
-hospital_universitc,ORPHA:232,Sickle cell anemia,35,4.881450488145049
-hospital_universitc,ORPHA:586,Cystic fibrosis,20,2.789400278940028
-hospital_universitd,CID10:Q87.4,Marfan syndrome,8,8.98876404494382
-hospital_universitd,CID10:Q87.1,Prader-Willi syndrome,7,7.865168539325842
-hospital_universitd,CID10:Q85.0,Neurofibromatosis type 1,5,5.617977528089887
-hospital_universitf,CID10:Q78.0,Congenital osteogenesis imperfecta-microcephaly-cataracts syndrome,89,6.193458594293667
-hospital_universitf,ORPHA:881,Turner syndrome,59,4.105775922059847
-hospital_universitf,CID10:E25.0,Congenital adrenal hyperplasia,48,3.3402922755741122
-hospital_universitg,ORPHA:881,Turner syndrome,15,10.56338028169014
-hospital_universitg,OMIM:190685,Down syndrome,6,4.225352112676056
-hospital_universitg,ORPHA:98896,Duchenne muscular dystrophy,6,4.225352112676056
-instituto_da_crian,ORPHA:567,22q11.2 deletion syndrome,9,8.91089108910891
-instituto_da_crian,OMIM:162200 - 162210 - 613675,Neurofibromatosis type 1,4,3.9603960396039604
-instituto_da_crian,OMIM:194050,Williams syndrome,4,3.9603960396039604
-instituto_j_clemen,ORPHA:716,Phenylketonuria,389,100.0
-instituto_nacional,CID10:E84.8,Cystic fibrosis,30,10.1010101010101
-instituto_nacional,CID10:E84.0,Cystic fibrosis,25,8.417508417508419
-instituto_nacional,CID10:Q78.0,Congenital osteogenesis imperfecta-microcephaly-cataracts syndrome,21,7.07070707070707
-maternidade_climri,CID10:Q92.9,,1,50.0
-maternidade_climri,OMIM:265380,Congenital alveolar capillary dysplasia,1,50.0
-unicamp__universid,ORPHA:636,Neurofibromatosis type 1,41,7.081174438687392
-unicamp__universid,ORPHA:908,Fragile X syndrome,24,4.145077720207254
-unicamp__universid,ORPHA:251510,"46,XY partial gonadal dysgenesis",20,3.454231433506045
-universidade_estad,ORPHA:315306,"Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, salt wasting form",53,9.906542056074766
-universidade_estad,CID10:E22.0,Acromegaly,34,6.355140186915888
-universidade_estad,ORPHA:803,Amyotrophic lateral sclerosis,22,4.112149532710281
-universidade_estadb,CID10:E22.0,Acromegaly,28,13.023255813953488
-universidade_estadb,CID10:Q99.2,Fragile X syndrome,8,3.7209302325581395
-universidade_estadb,CID10:Q85.1,Tuberous sclerosis complex,6,2.7906976744186047
+Acromegalia - Instituto de Psiquiatria - USP,CID10:E22.0,Acromegaly,115,95.0413223140496
+Acromegalia - Instituto de Psiquiatria - USP,CID10:E23.0,Non-acquired isolated growth hormone deficiency,5,4.132231404958678
+Acromegalia - Instituto de Psiquiatria - USP,CID10:E23.2,Central diabetes insipidus,1,0.8264462809917356
+APAE - Anápolis/GO,CID10:Q87.1,Prader-Willi syndrome,16,11.678832116788321
+APAE - Anápolis/GO,CID10:F79.9,,9,6.569343065693431
+APAE - Anápolis/GO,CID10:F80.9,,9,6.569343065693431
+APAE - Salvador/BA,CID10:E25.0,Congenital adrenal hyperplasia,58,35.15151515151515
+APAE - Salvador/BA,CID10:E70.0,Phenylketonuria,36,21.818181818181817
+APAE - Salvador/BA,ORPHA:315306,"Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, salt wasting form",19,11.515151515151516
+CEDEBA - Salvador/BA,CID10:E22.0,Acromegaly,77,100.0
+CESUPA - Belém/PA,CID10:E22.0,Acromegaly,10,71.42857142857143
+CESUPA - Belém/PA,CID10:E24.0 - D35.2,ACTH-dependent Cushing syndrome,3,21.428571428571427
+CESUPA - Belém/PA,CID10:E25.0,Congenital adrenal hyperplasia,1,7.142857142857142
+Policlínica Codajás - Manaus/AM,ORPHA:716,Phenylketonuria,22,34.92063492063492
+Policlínica Codajás - Manaus/AM,ORPHA:315306,"Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, salt wasting form",13,20.634920634920633
+Policlínica Codajás - Manaus/AM,ORPHA:586,Cystic fibrosis,8,12.698412698412698
+Escola Bahiana de Medicina e Saúde Pública - Salvador/BA,ORPHA:289326,Tropical spastic paraparesis,70,15.086206896551724
+Escola Bahiana de Medicina e Saúde Pública - Salvador/BA,ORPHA:803,Amyotrophic lateral sclerosis,64,13.793103448275861
+Escola Bahiana de Medicina e Saúde Pública - Salvador/BA,CID10:G71.0,Emery-Dreifuss muscular dystrophy,46,9.913793103448276
+Faculdade de Medicina do ABC - Santo André/SP,ORPHA:1572,Common variable immunodeficiency,7,12.068965517241379
+Faculdade de Medicina do ABC - Santo André/SP,ORPHA:586,Cystic fibrosis,4,6.896551724137931
+Faculdade de Medicina do ABC - Santo André/SP,CID10:G93.4,Neuhauser-Eichner-Opitz syndrome,3,5.172413793103448
+Fundação Hospital Estadual do Acre - Rio Branco/AC,CID10:Q85.0,Neurofibromatosis type 1,5,13.88888888888889
+Fundação Hospital Estadual do Acre - Rio Branco/AC,OMIM:540000,MELAS,3,8.333333333333332
+Fundação Hospital Estadual do Acre - Rio Branco/AC,CID10:Q05.2,Isolated posterior meningocele,2,5.555555555555555
+Hospital de Clínicas - Porto Alegre/RS,ORPHA:636,Neurofibromatosis type 1,59,6.876456876456877
+Hospital de Clínicas - Porto Alegre/RS,ORPHA:716,Phenylketonuria,40,4.662004662004662
+Hospital de Clínicas - Porto Alegre/RS,ORPHA:98757,Spinocerebellar ataxia type 3,35,4.0792540792540795
+Hospital Bettina Ferro de Souza - Belém/PA,ORPHA:98896,Duchenne muscular dystrophy,31,7.46987951807229
+Hospital Bettina Ferro de Souza - Belém/PA,CID10:Q99.8,Tetrasomy 18p,13,3.132530120481928
+Hospital Bettina Ferro de Souza - Belém/PA,ORPHA:904,Williams syndrome,12,2.891566265060241
+Hospital da Criança Santo Antônio - Porto Alegre/RS,ORPHA:567,22q11.2 deletion syndrome,25,19.841269841269842
+Hospital da Criança Santo Antônio - Porto Alegre/RS,ORPHA:636,Neurofibromatosis type 1,8,6.349206349206349
+Hospital da Criança Santo Antônio - Porto Alegre/RS,ORPHA:199,Cornelia de Lange syndrome,5,3.968253968253968
+Hospital de Clínicas - Ribeirão Preto/SP,ORPHA:803,Amyotrophic lateral sclerosis,102,9.230769230769232
+Hospital de Clínicas - Ribeirão Preto/SP,ORPHA:963,Acromegaly,96,8.687782805429864
+Hospital de Clínicas - Ribeirão Preto/SP,ORPHA:98896,Duchenne muscular dystrophy,82,7.420814479638009
+Hospital de Apoio - Brasília/DF,OMIM:301500,Fabry disease,13,6.666666666666667
+Hospital de Apoio - Brasília/DF,OMIM:162200 - 162210 - 613675,Neurofibromatosis type 1,9,4.615384615384616
+Hospital de Apoio - Brasília/DF,OMIM:230800,Gaucher disease,9,4.615384615384616
+Hospital Geral Dr. César Cals - Fortaleza/CE,CID10:K22.0,Idiopathic achalasia,27,9.342560553633218
+Hospital Geral Dr. César Cals - Fortaleza/CE,CID10:O01.0 - O01.1 - O01.9,Hydatidiform mole,14,4.844290657439446
+Hospital Geral Dr. César Cals - Fortaleza/CE,ORPHA:589,Myasthenia gravis,12,4.1522491349480966
+Hospital Infantil Albert Sabin - Fortaleza/CE,OMIM:261600,Phenylketonuria,30,8.310249307479225
+Hospital Infantil Albert Sabin - Fortaleza/CE,CID10:Q78.0,Congenital osteogenesis imperfecta-microcephaly-cataracts syndrome,24,6.64819944598338
+Hospital Infantil Albert Sabin - Fortaleza/CE,ORPHA:716,Phenylketonuria,17,4.7091412742382275
+Hospital Infantil João Paulo II - Belo Horizonte/MG,CID10:E84.9,,88,52.38095238095239
+Hospital Infantil João Paulo II - Belo Horizonte/MG,CID10:E84.0,Cystic fibrosis,45,26.785714285714285
+Hospital Infantil João Paulo II - Belo Horizonte/MG,CID10:E84.8,Cystic fibrosis,33,19.642857142857142
+Hospital Materno Infantil - Brasília/DF,ORPHA:648,Noonan syndrome,6,3.076923076923077
+Hospital Materno Infantil - Brasília/DF,ORPHA:881,Turner syndrome,5,2.564102564102564
+Hospital Materno Infantil - Brasília/DF,OMIM:130650,Beckwith-Wiedemann syndrome,4,2.051282051282051
+Hospital Pequeno Príncipe - Curitiba/PR,CID10:Q99.8,Tetrasomy 18p,29,7.9452054794520555
+Hospital Pequeno Príncipe - Curitiba/PR,ORPHA:98896,Duchenne muscular dystrophy,28,7.671232876712329
+Hospital Pequeno Príncipe - Curitiba/PR,OMIM:219700,Cystic fibrosis,22,6.027397260273973
+Hospital Santa Casa - Vitória/ES,CID10:D84.1,Primary CD59 deficiency,66,100.0
+Hospital São Paulo - São Paulo/SP,ORPHA:324,Fabry disease,27,27.0
+Hospital São Paulo - São Paulo/SP,ORPHA:77259,Gaucher disease type 1,13,13.0
+Hospital São Paulo - São Paulo/SP,ORPHA:579,Mucopolysaccharidosis type 1,9,9.0
+Hospital Universitário Alcides Carneiro - Campina Grande/PB,ORPHA:881,Turner syndrome,12,8.053691275167784
+Hospital Universitário Alcides Carneiro - Campina Grande/PB,CID10:E22.0,Acromegaly,10,6.7114093959731544
+Hospital Universitário Alcides Carneiro - Campina Grande/PB,OMIM:253000,Mucopolysaccharidosis type 4,10,6.7114093959731544
+Hospital Universitário Clementino Fraga Filho - Rio de Janeiro/RJ,CID10:D84.1,Primary CD59 deficiency,71,98.61111111111111
+Hospital Universitário Clementino Fraga Filho - Rio de Janeiro/RJ,ORPHA:91378,Hereditary angioedema,1,1.3888888888888888
+Hospital Universitário Júlio Müller - Cuiabá/MT,ORPHA:442,Congenital hypothyroidism,151,21.05997210599721
+Hospital Universitário Júlio Müller - Cuiabá/MT,ORPHA:232,Sickle cell anemia,35,4.881450488145049
+Hospital Universitário Júlio Müller - Cuiabá/MT,ORPHA:586,Cystic fibrosis,20,2.789400278940028
+Hospital Universitário Lauro Wanderley - João Pessoa/PB,CID10:Q87.4,Marfan syndrome,8,8.98876404494382
+Hospital Universitário Lauro Wanderley - João Pessoa/PB,CID10:Q87.1,Prader-Willi syndrome,7,7.865168539325842
+Hospital Universitário Lauro Wanderley - João Pessoa/PB,CID10:Q85.0,Neurofibromatosis type 1,5,5.617977528089887
+Hospital Universitário Prof. Edgar Santos - Salvador/BA,CID10:Q78.0,Congenital osteogenesis imperfecta-microcephaly-cataracts syndrome,89,6.193458594293667
+Hospital Universitário Prof. Edgar Santos - Salvador/BA,ORPHA:881,Turner syndrome,59,4.105775922059847
+Hospital Universitário Prof. Edgar Santos - Salvador/BA,CID10:E25.0,Congenital adrenal hyperplasia,48,3.3402922755741122
+Hospital Universitário Walter Cantídio - Fortaleza/CE,ORPHA:881,Turner syndrome,15,10.56338028169014
+Hospital Universitário Walter Cantídio - Fortaleza/CE,OMIM:190685,Down syndrome,6,4.225352112676056
+Hospital Universitário Walter Cantídio - Fortaleza/CE,ORPHA:98896,Duchenne muscular dystrophy,6,4.225352112676056
+Instituto da Criança - São Paulo/SP,ORPHA:567,22q11.2 deletion syndrome,9,8.91089108910891
+Instituto da Criança - São Paulo/SP,OMIM:162200 - 162210 - 613675,Neurofibromatosis type 1,4,3.9603960396039604
+Instituto da Criança - São Paulo/SP,OMIM:194050,Williams syndrome,4,3.9603960396039604
+Instituto Jô Clemente - São Paulo/SP,ORPHA:716,Phenylketonuria,389,100.0
+IFF/Fiocruz - Rio de Janeiro/RJ,CID10:E84.8,Cystic fibrosis,30,10.1010101010101
+IFF/Fiocruz - Rio de Janeiro/RJ,CID10:E84.0,Cystic fibrosis,25,8.417508417508419
+IFF/Fiocruz - Rio de Janeiro/RJ,CID10:Q78.0,Congenital osteogenesis imperfecta-microcephaly-cataracts syndrome,21,7.07070707070707
+Maternidade Climério de Oliveira - Salvador/BA,CID10:Q92.9,,1,50.0
+Maternidade Climério de Oliveira - Salvador/BA,OMIM:265380,Congenital alveolar capillary dysplasia,1,50.0
+UNICAMP - Campinas/SP,ORPHA:636,Neurofibromatosis type 1,41,7.081174438687392
+UNICAMP - Campinas/SP,ORPHA:908,Fragile X syndrome,24,4.145077720207254
+UNICAMP - Campinas/SP,ORPHA:251510,"46,XY partial gonadal dysgenesis",20,3.454231433506045
+Universidade Estadual de Londrina - Londrina/PR,ORPHA:315306,"Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, salt wasting form",53,9.906542056074766
+Universidade Estadual de Londrina - Londrina/PR,CID10:E22.0,Acromegaly,34,6.355140186915888
+Universidade Estadual de Londrina - Londrina/PR,ORPHA:803,Amyotrophic lateral sclerosis,22,4.112149532710281
+Hospital Universitário Pedro Ernesto - Rio de Janeiro/RJ,CID10:E22.0,Acromegaly,28,13.023255813953488
+Hospital Universitário Pedro Ernesto - Rio de Janeiro/RJ,CID10:Q99.2,Fragile X syndrome,8,3.7209302325581395
+Hospital Universitário Pedro Ernesto - Rio de Janeiro/RJ,CID10:Q85.1,Tuberous sclerosis complex,6,2.7906976744186047
