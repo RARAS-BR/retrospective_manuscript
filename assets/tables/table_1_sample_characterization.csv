@@ -1,0 +1,24 @@
+feature,value,n,%
+Color or race,Brown,5013,40.85907571929253
+Color or race,White,4847,39.506072214524416
+Color or race,,1705,13.896813106202623
+Color or race,Black,606,4.939277854755889
+Color or race,Yellow,68,0.5542423995435651
+Color or race,Indigenous,30,0.2445187056809846
+Sex,Female,6198,50.517564593691425
+Sex,Male,6053,49.335724182899995
+Sex,Undetermined,13,0.10595810579509334
+Sex,,5,0.04075311761349743
+Birth region,Southeast,3731,30.40997636319178
+Birth region,Northeast,3713,30.26326513978319
+Birth region,South,1657,13.505583177113047
+Birth region,Midwest,1369,11.158203602575597
+Birth region,,1121,9.136848968946126
+Birth region,North,666,5.428315266117858
+Birth region,Born in other countries,12,0.09780748227239384
+Residence region,Southeast,3960,32.27646914988997
+Residence region,Northeast,3935,32.07270356182248
+Residence region,South,2080,16.953296927214932
+Residence region,Midwest,1486,12.111826554731437
+Residence region,North,637,5.191947183959573
+Residence region,,171,1.3937566223816122
