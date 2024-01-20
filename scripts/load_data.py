@@ -206,7 +206,7 @@ seg.rename(columns={'cid10': 'cid_obito'}, inplace=True)
 
 # Anonimize sensitive data
 id_df['record_id_anon'] = pd.factorize(id_df['record_id'])[0] + 1
-id_df['id_centro_anon'] = pd.factorize(id_df['id_centro'])[0] + 1
+# id_df['id_centro_anon'] = pd.factorize(id_df['id_centro'])[0] + 1
 # Create a mapping between the original and anonymized ids
 record_id_map = (
     id_df[['record_id', 'record_id_anon']]
@@ -214,19 +214,22 @@ record_id_map = (
     ['record_id_anon'].to_dict()
 )
 
-center_id_map = (
-    id_df[['id_centro', 'id_centro_anon']]
-    .drop_duplicates().set_index('id_centro')
-    ['id_centro_anon'].to_dict()
-)
+# center_id_map = (
+#     id_df[['id_centro', 'id_centro_anon']]
+#     .drop_duplicates().set_index('id_centro')
+#     ['id_centro_anon'].to_dict()
+# )
 
 # Map record_id and id_centro for all dataframes
 for df in [id_df, diag, trat, tipo_tratamento_df, seg]:
     df['record_id'] = df['record_id'].map(record_id_map)
-    df['id_centro'] = df['id_centro'].map(center_id_map).astype('category')
+#     df['id_centro'] = df['id_centro'].map(center_id_map).astype('category')
 
 # Drop 'record_id_anon' and 'id_centro_anon' from id_df
-id_df.drop(columns=['record_id_anon', 'id_centro_anon'], inplace=True)
+id_df.drop(columns=[
+    'record_id_anon',
+    # 'id_centro_anon'
+], inplace=True)
 
 # Map variables and columns values
 id_df['raca_cor'] = id_df['raca_cor'].map(raca_cor)
