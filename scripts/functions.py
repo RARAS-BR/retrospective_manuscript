@@ -1,5 +1,7 @@
-from typing import Callable, Union, List
+from typing import Callable, Union, List, Any
 from pandas import DataFrame, Series
+import requests
+import numpy as np
 import pandas as pd
 from scripts.disease_map import DISEASE_MAPS, DISEASE_NAMES
 
@@ -79,3 +81,34 @@ def create_disease_count(df: pd.DataFrame, disease_names=None, disease_maps=None
     final_series.name = 'n'
 
     return final_series
+
+
+def get_disease_name(x: str) -> float | Any:
+    url = 'https://api.orphadata.com/rd-cross-referencing'
+    params = {'lang': 'en'}
+    endpoint_map = {
+        'ORPHA': 'orphacodes',
+        'CID10': 'icd-10s',
+        'OMIM': 'omims'
+    }
+
+    # Get code
+    code = x.split(':')[1]
+
+    # Define the endpoint
+    prefix = x.split(':')[0]
+    endpoint = endpoint_map.get(prefix)
+
+    if endpoint is None:
+        print(f"Invalid code prefix: {prefix}")
+        return np.nan
+
+    r = requests.get(f'{url}/{endpoint}/{code}', params=params)
+
+    if r.status_code != 200:
+        print(f"Request failed with status code {r.status_code} for row {x}")
+        return np.nan
+
+    data = r.json()['data']['results']
+    # Check if data is a list and return the first 'Preferred term', else return the 'Preferred term' directly
+    return data[0]['Preferred term'] if isinstance(data, list) else data['Preferred term']
